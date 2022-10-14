@@ -1,0 +1,19 @@
+body {
+  width: 100vw;
+  height: 100%;
+  background-color: #08293f;
+  color: white;
+}
+
+.header {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  background-color: #08293f;
+}
+
+.footer {
+  text-align: center;
+}

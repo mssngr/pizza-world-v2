@@ -1,0 +1,12 @@
+#pizzaWorldGIF {
+  height: 100%;
+  mix-blend-mode: lighten;
+  border-radius: 50%;
+}
+
+#pizzaWorldTitle {
+  position: absolute;
+  margin: 0;
+  text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+  text-transform: uppercase;
+}
